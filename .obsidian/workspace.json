@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORKING.md",
+                "file": "THEORY2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NETWORKING"
+              "title": "THEORY2"
             }
           },
           {
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2cc99679b8703fd0",
@@ -215,10 +215,11 @@
   },
   "active": "1c89004ef61cfd21",
   "lastOpenFiles": [
+    "THEORY.md",
+    "THEORY2.md",
+    "NETWORKING.md",
     "DOCKER.md",
     "README.md",
-    "NETWORKING.md",
-    "THEORY.md",
     "ADMINISTRATION.md",
     "Untitled.canvas"
   ]
