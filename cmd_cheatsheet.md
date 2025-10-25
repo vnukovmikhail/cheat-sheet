@@ -1,3 +1,5 @@
+### Linux (and windows) commands for system management:
+
 Исполнение любой команды требует использования соответствующего терминала, так для `Linux` это `GNU bash` и терминал по типу `konsole`, а для `Windows` используются `powershell` или `cmd`.
 
 #### `1.1` Linux and Windows for folder management:
