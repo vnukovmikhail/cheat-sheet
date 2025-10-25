@@ -2,6 +2,14 @@
 
 Исполнение любой команды требует использования соответствующего терминала, так для `Linux` это `GNU bash` и терминал по типу `konsole`, а для `Windows` используются `powershell` или `cmd`.
 
+#### Содержимое:
+- [Linux and Windows for folder management](#Linux-and-Windows-for-folder-management:)
+- [Linux and Windows information](#Linux-and-Windows-information)
+- [Linux and Windows for file management](#Linux-and-Windows-for-file-management)
+- [Linux and Windows executable files 1](#Linux-and-Windows-executable-files-1)
+- [Linux and Windows executable files 2](#Linux-and-Windows-executable files-2)
+- [Linux and Windows connection protocol](#Linux-and-Windows-connection-protocol)
+
 #### `1.1` Linux and Windows for folder management:
 
 | Linux                                           | Windows                     | Action                                          |

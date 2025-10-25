@@ -1,6 +1,6 @@
 
 ## Содержимое:
-- [[#Network infrastructures]] - **сетевая инфраструктура**
+- [Network infrastructures](#Network-infrastructures) - **сетевая инфраструктура**
 
 ### Network infrastructures:
 

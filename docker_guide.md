@@ -1,8 +1,8 @@
 ### Содержимое:
-- [[#How to use `docker`?]] - как использовать `docker`, его команды
-- [[#How to use `docker-compose.yml`?]] - использование `docker-compose`
-- [[#`Dockerfile`]] - как писать `Dockerfile` и зачем?
-- [[#`docker-compose.yml`]] - как писать `docker-compose.yml` и зачем?
+- [How to use `docker`?](#How-to-use-`docker`?) - как использовать `docker`, его команды
+- [How to use `docker-compose.yml`?](#How-to-use-`docker-compose.yml`?) - использование `docker-compose`
+- [`Dockerfile`](#`Dockerfile`) - как писать `Dockerfile` и зачем?
+- [`docker-compose.yml`](#`docker-compose.yml`) - как писать `docker-compose.yml` и зачем?
 
 > `Quiz:` на тему `Docker`
 > 
