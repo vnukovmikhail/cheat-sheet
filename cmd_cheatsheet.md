@@ -1,16 +1,16 @@
-### Linux (and windows) commands for system management:
+### Linux (& windows) commands for system management:
 
 Исполнение любой команды требует использования соответствующего терминала, так для `Linux` это `GNU bash` и терминал по типу `konsole`, а для `Windows` используются `powershell` или `cmd`.
 
 #### Содержимое:
-- [Linux and Windows for folder management](#Linux-and-Windows-for-folder-management:)
-- [Linux and Windows information](#Linux-and-Windows-information)
-- [Linux and Windows for file management](#Linux-and-Windows-for-file-management)
-- [Linux and Windows executable files 1](#Linux-and-Windows-executable-files-1)
-- [Linux and Windows executable files 2](#Linux-and-Windows-executable files-2)
-- [Linux and Windows connection protocol](#Linux-and-Windows-connection-protocol)
+- [`1.1` Linux & Windows for folder management](#`1.1`-Linux-&-Windows-for-folder-management:)
+- [`1.2` Linux & Windows information](#`1.2`-Linux-&-Windows-information:)
+- [`1.3` Linux & Windows for file management](#`1.3`-Linux-&-Windows-for-file-management:)
+- [`1.4` Linux & Windows executable files 1](#`1.4`-Linux-&-Windows-executable-files-1:)
+- [`1.4.1` Linux & Windows executable files 2](#`1.4.1`-Linux-&-Windows-executable-files-2:)
+- [`1.5` Linux & Windows connection protocol](#`1.5`-Linux-&-Windows-connection-protocol:)
 
-#### `1.1` Linux and Windows for folder management:
+#### `1.1` Linux & Windows for folder management:
 
 | Linux                                           | Windows                     | Action                                          |
 | ----------------------------------------------- | --------------------------- | ----------------------------------------------- |
@@ -31,7 +31,7 @@
 >   - `%PATH% (Windows)` или `pwd (Linux)` - так `echo %PATH%` _(укажет полный путь до текущего места)_ 
 
 ---
-#### `1.2` Linux and Windows information:
+#### `1.2` Linux & Windows information:
 
 > `Информация!` есть несколько шаблонов которые можно использовать для более конкретных действий:
 > > `команда[rmdir|rm|del|copy|...]` - позволяет использовать `*`.
@@ -52,7 +52,7 @@
 
 ---
 
-#### `1.3` Linux and Windows for file management:
+#### `1.3` Linux & Windows for file management:
 
 | Linux                  | Windows                        | Action                                   |
 | ---------------------- | ------------------------------ | ---------------------------------------- |
@@ -65,7 +65,7 @@
 
 ---
 
-#### `1.4` Linux and Windows executable files 1:
+#### `1.4` Linux & Windows executable files 1:
 
 | Linux                                                                   | Windows                                                       | Action                                                          |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -79,7 +79,7 @@
 
 ---
 
-#### `1.4.1` Linux and Windows executable files 2:
+#### `1.4.1` Linux & Windows executable files 2:
 
 | Linux                             | Windows                          | Action                       |
 | --------------------------------- | -------------------------------- | ---------------------------- |
@@ -90,7 +90,7 @@
 
 ---
 
-#### `1.5` Linux and Windows connection protocol:
+#### `1.5` Linux & Windows connection protocol:
 
 | Linux                     | Windows       | Action                                 |
 | ------------------------- | ------------- | -------------------------------------- |
