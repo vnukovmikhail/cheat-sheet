@@ -42,4 +42,4 @@
 
 ---
 
-[[infrastructure_notes]]
+[infrastructure_notes](infrastructure_notes.md)
