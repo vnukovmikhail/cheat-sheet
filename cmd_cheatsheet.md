@@ -3,14 +3,14 @@
 Исполнение любой команды требует использования соответствующего терминала, так для `Linux` это `GNU bash` и терминал по типу `konsole`, а для `Windows` используются `powershell` или `cmd`.
 
 #### Содержимое:
-- [`1.1` Linux & Windows for folder management](#`1.1`-Linux-&-Windows-for-folder-management:)
+- [`1.1` Linux & Windows for folder management](#Linux-&-Windows-for-folder-management:)
 - [`1.2` Linux & Windows information](#`1.2`-Linux-&-Windows-information:)
 - [`1.3` Linux & Windows for file management](#`1.3`-Linux-&-Windows-for-file-management:)
 - [`1.4` Linux & Windows executable files 1](#`1.4`-Linux-&-Windows-executable-files-1:)
 - [`1.4.1` Linux & Windows executable files 2](#`1.4.1`-Linux-&-Windows-executable-files-2:)
 - [`1.5` Linux & Windows connection protocol](#`1.5`-Linux-&-Windows-connection-protocol:)
 
-#### `1.1` Linux & Windows for folder management:
+#### Linux & Windows for folder management:
 
 | Linux                                           | Windows                     | Action                                          |
 | ----------------------------------------------- | --------------------------- | ----------------------------------------------- |
